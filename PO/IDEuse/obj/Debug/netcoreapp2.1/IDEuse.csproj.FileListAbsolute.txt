@@ -1,0 +1,10 @@
+/Users/emilrakh/RiderProjects/PO/IDEuse/bin/Debug/netcoreapp2.1/IDEuse.deps.json
+/Users/emilrakh/RiderProjects/PO/IDEuse/bin/Debug/netcoreapp2.1/IDEuse.runtimeconfig.json
+/Users/emilrakh/RiderProjects/PO/IDEuse/bin/Debug/netcoreapp2.1/IDEuse.runtimeconfig.dev.json
+/Users/emilrakh/RiderProjects/PO/IDEuse/bin/Debug/netcoreapp2.1/IDEuse.dll
+/Users/emilrakh/RiderProjects/PO/IDEuse/bin/Debug/netcoreapp2.1/IDEuse.pdb
+/Users/emilrakh/RiderProjects/PO/IDEuse/obj/Debug/netcoreapp2.1/IDEuse.csprojAssemblyReference.cache
+/Users/emilrakh/RiderProjects/PO/IDEuse/obj/Debug/netcoreapp2.1/IDEuse.AssemblyInfoInputs.cache
+/Users/emilrakh/RiderProjects/PO/IDEuse/obj/Debug/netcoreapp2.1/IDEuse.AssemblyInfo.cs
+/Users/emilrakh/RiderProjects/PO/IDEuse/obj/Debug/netcoreapp2.1/IDEuse.dll
+/Users/emilrakh/RiderProjects/PO/IDEuse/obj/Debug/netcoreapp2.1/IDEuse.pdb

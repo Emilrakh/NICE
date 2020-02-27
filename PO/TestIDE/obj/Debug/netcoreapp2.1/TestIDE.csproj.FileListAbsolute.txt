@@ -1,0 +1,17 @@
+/Users/emilrakh/RiderProjects/PO/TestIDE/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/emilrakh/RiderProjects/PO/TestIDE/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/emilrakh/RiderProjects/PO/TestIDE/bin/Debug/netcoreapp2.1/nunit.engine.dll
+/Users/emilrakh/RiderProjects/PO/TestIDE/bin/Debug/netcoreapp2.1/nunit.engine.api.dll
+/Users/emilrakh/RiderProjects/PO/TestIDE/bin/Debug/netcoreapp2.1/TestIDE.deps.json
+/Users/emilrakh/RiderProjects/PO/TestIDE/bin/Debug/netcoreapp2.1/TestIDE.runtimeconfig.json
+/Users/emilrakh/RiderProjects/PO/TestIDE/bin/Debug/netcoreapp2.1/TestIDE.runtimeconfig.dev.json
+/Users/emilrakh/RiderProjects/PO/TestIDE/bin/Debug/netcoreapp2.1/TestIDE.dll
+/Users/emilrakh/RiderProjects/PO/TestIDE/bin/Debug/netcoreapp2.1/TestIDE.pdb
+/Users/emilrakh/RiderProjects/PO/TestIDE/bin/Debug/netcoreapp2.1/IDEuse.dll
+/Users/emilrakh/RiderProjects/PO/TestIDE/bin/Debug/netcoreapp2.1/IDEuse.pdb
+/Users/emilrakh/RiderProjects/PO/TestIDE/obj/Debug/netcoreapp2.1/TestIDE.csprojAssemblyReference.cache
+/Users/emilrakh/RiderProjects/PO/TestIDE/obj/Debug/netcoreapp2.1/TestIDE.AssemblyInfoInputs.cache
+/Users/emilrakh/RiderProjects/PO/TestIDE/obj/Debug/netcoreapp2.1/TestIDE.AssemblyInfo.cs
+/Users/emilrakh/RiderProjects/PO/TestIDE/obj/Debug/netcoreapp2.1/TestIDE.csproj.CopyComplete
+/Users/emilrakh/RiderProjects/PO/TestIDE/obj/Debug/netcoreapp2.1/TestIDE.dll
+/Users/emilrakh/RiderProjects/PO/TestIDE/obj/Debug/netcoreapp2.1/TestIDE.pdb

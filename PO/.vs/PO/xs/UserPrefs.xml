@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5B607511-AA77-4DF6-B5F1-F51AE9B17188}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IDEuse/Point.cs">
+    <Files>
+      <File FileName="IDEuse/Point.cs" Line="5" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PO" expanded="True">
+            <Node name="IDEuse" expanded="True">
+              <Node name="Point.cs" selected="True" />
+            </Node>
+            <Node name="TestIDE" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IDEuse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

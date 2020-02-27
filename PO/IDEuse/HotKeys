@@ -1,0 +1,217 @@
+Rider's top keyboard shortcuts﻿
+Open Solution or Project	⌃+⇧+O
+Open File or Folder	⌘+O
+Show Action List	⌥+Enter
+Search Everywhere	⌘+N Double-⇧
+Navigate To…	⌘+⇧+G
+Find Usages	⌥+F7
+Select In...	⌥+F1
+Settings...	⌘+,
+Find Action...	⌘+⇧+A
+Generate...	⌘+⌃+N ⌥+Insert
+Build Solution	⌘+⇧+B
+Debug...	⌃+⌥+D
+View Breakpoints...	⌘+⇧+F8
+Attach to Process...	⌥+⇧+F5
+VCS Operations Popup...	⌃+V
+Refactor This...	⌘+⇧+R
+Inspect This...	⌘+⌥+⇧+A
+Code Cleanup...	⌘+⌥+F
+
+Finding everything﻿
+Search Everywhere	⌘+N Double-⇧
+Find...	⌘+F
+Find Next / Move to Next Occurrence	F3 ⌘+⌥+Page Down
+Find Previous / Move to Previous Occurrence	⇧+F3 ⌘+⌥+Page Up
+Replace...	⌃+H
+Find in Path...	⌘+⇧+F
+Replace in Path...	⌘+⇧+H
+Find Word at Caret	⌘+F3
+File...	⌘+⇧+N
+File Member	⌘+F12
+Symbol...	⌘+⌥+⇧+N
+Find Action...	⌘+⇧+A
+
+Navigating from symbols﻿
+Declaration or Usages	⌘+B ⌘+Click Right-click
+Type Declaration	⌘+⇧+T ⌘+⇧+Click ⇧+Right-click
+Show Usages	⌘+⌥+F7
+Super Method	⌘+U
+Implementation(s)	⌘+⌥+⇧+B ⌃+⌥+Click
+Implementation(s)	⌘+⌥+B ⌘+⌥+Click
+Navigate To…	⌘+⇧+G
+Find Usages	⌥+F7
+Highlight Usages in File	⌘+⇧+F7
+
+Context navigation﻿
+Move Caret to Code Block Start	⌘+[
+Next Method	⌃+Down
+Previous Method	⌃+Up
+Line/Column...	⌘+G
+Switcher	⌃+Tab ⌃+⇧+Tab
+Select In...	⌥+F1
+Locate/Select in Solution View	⌥+⇧+L
+Recent Files	⌘+E
+Recently Changed Files	⌘+⌥+⇧+Backspace
+Last Edit Location	⌘+⇧+Backspace
+Back	⌘+Minus ⌘+NumPad Minus Mouse Back
+Forward	⌘+⇧+Minus ⌘+⇧+NumPad Minus Mouse Forward
+Select Next Tab	⌘+⇧+] ⌃+Right
+Select Previous Tab	⌘+⇧+[ ⌃+Left
+Add to Favorites	⌥+⇧+F
+Show Find window	⌘+3 ⌘+⌥+U
+Show TODO window	⌘+6
+Show Favorites window	⌘+2
+
+Code Analysis﻿
+Show Action List	⌥+Enter
+Next Code Issue	⌥+Page Down
+Previous Code Issue	⇧+F12
+Next Error	⌥+F12
+Previous Error	⌥+⇧+F12
+Toggle Code Inspection	⌘+⌥+⇧+8 ⌃+⌥+⇧+8
+Run Inspection by Name	⌘+⌥+⇧+I
+Inspect This...	⌘+⌥+⇧+A
+Show Errors in Solution window	⌘+⌃+2
+Show Inspection Results window	⌘+⌃+4 ⌘+⌥+
+
+Creating and editing code﻿
+Select All	⌘+A
+Move Caret to Previous Word with Selection	⌥+⇧+Left
+Move Caret to Next Word with Selection	⌥+⇧+Right
+Move Caret to Page Top with Selection	⌘+⇧+Page Up
+Move Caret to Page Bottom with Selection	⌘+⇧+Page Down
+Extend Selection	⌥+Up
+Shrink Selection	⌥+Down
+Add Selection for Next Occurrence	⌃+G
+Copy	⌘+C ⌘+Insert
+Cut	⌘+X ⇧+Delete ⌘+L
+Paste	⌘+V ⇧+Insert
+Paste without Formatting	⌘+⌥+⇧+V
+Paste from History...	⌘+⇧+V ⌘+⇧+Insert
+Duplicate Line or Selection	⌘+D
+Copy Paths	⌘+⇧+C
+Save All	⌘+⇧+S
+Undo	⌘+Z
+Indent Selection	Tab
+Unindent Line or Selection	⇧+Tab
+Move Line Up	⌥+⇧+Up
+Move Line Down	⌥+⇧+Down
+Start New Line	⇧+Enter
+Start New Line Before Current	⌘+Enter
+Delete Line	⌘+⇧+L
+Toggle Case	⌘+⇧+U
+New Scratch File	⌘+⇧+N
+
+Coding assistance﻿
+Show Action List	⌥+Enter
+Basic Completion	⌃+Space
+Smart Completion	⌃+⇧+Space
+Second Basic Completion	⌃+⌥+Space
+Complete Current Statement	⌘+⇧+Enter
+Parameter Info	⌘+P
+Quick Documentation	⌃+Q
+Move Statement Up	⌃+⌥+⇧+Up
+Move Statement Down	⌃+⌥+⇧+Down
+Move Statement Left	⌘+⌥+⇧+Left ⌃+⌥+⇧+Left
+Move Statement Right	⌘+⌥+⇧+Right ⌃+⌥+⇧+Right
+Comment/uncomment with Line Comment	⌘+/ ⌘+NumPad /
+Comment/uncomment with Block Comment	⌘+⌃+/ ⌘+⇧+NumPad /
+Generate...	⌘+⌃+N ⌥+Insert
+Code Cleanup...	⌘+⌥+F
+Silent Code Cleanup	⌘+⌥+⇧+F
+
+Building, Running, and Debugging﻿
+NuGet Quick List	⌥+⇧+N
+Build Solution	⌘+⇧+B
+Run context configuration	⌘+F5
+Run...	⌘+⌥+⇧+R
+Debug context configuration	⌥+F5
+Debug...	⌃+⌥+D
+Attach to Process...	⌥+⇧+F5
+Stop	⇧+F5
+Stop Background Processes...	⌘+⇧+F2
+Step Over	F10
+Force Step Over	⌥+⇧+F8
+Step Into	F11
+Smart Step Into	⇧+F7
+Force Step Into	⌥+F11
+Step Out	⇧+F11
+Run to Cursor	⌘+F10
+Force Run to Cursor	⌘+⌥+F9
+Skip to Cursor	⌘+⇧+F10
+Pause Program	⌘+Pause ⌘+⇧+P
+Resume Program	F5
+Evaluate Expression...	⇧+F9
+Quick Evaluate Expression	⌘+⌥+F8 ⌥+Click
+Show Execution Point	⌥+NumPad * ⌘+L
+Toggle Line Breakpoint	F9
+Toggle Temporary Line Breakpoint	⌘+⌥+⇧+F8
+Toggle Breakpoint Enabled	⌘+F9
+View Breakpoints...	⌘+⇧+F8
+Edit breakpoint	⌥+F9
+Show Build window	⌘+0
+Show Run window	⌘+4
+Show Debug window	⌘+5
+Show NuGet window	⌘+7 ⌘+⇧+7
+
+Refactorings﻿
+Refactor This...	⌘+⇧+R
+Change Signature...	⌘+F6
+Inline...	⌘+⌥+N
+Move...	F6
+Extract Method...	⌘+⌥+M
+Introduce Field...	⌘+⌥+D
+Introduce Parameter...	⌘+⌥+P
+Introduce Variable...	⌘+⌥+V
+Rename...	F2
+Safe Delete...	⌥+Delete
+
+Global VCS actions﻿
+VCS Operations Popup...	⌃+V
+Show Commit window	⌥+⇧+9 ⌘+⇧+9
+Show Repository window	⌥+9 ⌘+9
+Commit...	⌘+K
+Update Project	⌘+⌥+W
+Rollback	⌘+⌥+Z
+Push...	⌘+⇧+K
+
+Unit Testing﻿
+Unit Testing Quick List...	⌥+⇧+U
+Run Unit Tests	⌘+T, R ⌘+T, ⌘+R
+Debug Unit Tests	⌘+T, D ⌘+T, ⌘+D
+Stop Execution	⌘+T, S ⌘+T, ⌘+S
+Repeat Previous Run	⌘+T, T ⌘+T, ⌘+T
+Rerun Failed Tests	⌘+T, F ⌘+T, ⌘+F
+Repeat Tests Until Failure	⌘+T, W ⌘+T, ⌘+W
+Run All Tests from Solution	⌘+T, L ⌘+T, ⌘+L
+Create New Session	⌘+T, N ⌘+T, ⌘+N
+Append Tests to Session	⌘+T, A ⌘+T, ⌘+A
+Run Current Session	⌘+T, Y ⌘+T, ⌘+Y
+Run Unit Tests under dotMemory Unit	⌘+T, M ⌘+T, ⌘+M
+Show Unit Tests window	⌘+8 ⌘+⇧+8
+Run Unit Tests (Tool Window)	⇧+Enter
+Debug Unit Tests (Tool Window)	⌘+D
+Run Current Session (Tool Window)	⌘+Y
+Rerun Failed Tests (Tool Window)	⌘+F
+Create New Session (Tool Window)	⌘+⇧+N
+Append Tests to Session (Tool Window)	⌘+⌥+N
+Remove Selected Tests (Tool Window)	Backspace
+Run All Tests from Solution (Tool Window)	⌘+L
+
+Tool Windows﻿
+Build	⌘+0
+Explorer	⌘+1
+Favorites	⌘+2
+Find	⌘+3 ⌘+⌥+U
+Run	⌘+4
+Debug	⌘+5
+TODO	⌘+6
+NuGet	⌘+7 ⌘+⇧+7
+Unit Tests	⌘+8 ⌘+⇧+8
+Commit	⌥+⇧+9 ⌘+⇧+9
+Repository	⌥+9 ⌘+9
+Terminal	⌘+⌃+1
+Errors In Solution	⌘+⌃+2
+Database	⌘+⌃+3
+Inspection Results	⌘+⌃+4 ⌘+⌥+,
